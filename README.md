@@ -10,7 +10,6 @@ You'll need ImageMagick and Python.
 ```
 brew install imagemagick
 ```
-as well as python. 
 
 Then to use its simple:
 ```
