@@ -3,18 +3,19 @@
 Python tool to generate all the icon sizes you need for an 
 iOS application.  
 
-## Prerequisites
+## Mac Installation Instructions
 
-I use this on a Mac.  You'll need ImageMagick 
+You'll need ImageMagick and Python.
 
 ```
 brew install imagemagick
 ```
 as well as python. 
 
-## Usage
-
+Then to use its simple:
 ```
+git clone https://github.com/vallard/iOS-icon-generator.git
+cp makeicons.py <your image directory>/
 makeicons.py <image name>.png
 ```
 
